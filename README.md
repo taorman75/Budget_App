@@ -23,7 +23,7 @@
 ![budget app screen shot](https://github.com/taorman75/Budget_App/blob/master/Assets/MainMenu.jpg)
 
 ## License
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Questions
 
