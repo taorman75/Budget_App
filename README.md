@@ -22,6 +22,7 @@
 
 ![budget app screen shot](https://github.com/taorman75/Budget_App/blob/master/Assets/MainMenu.jpg)
 
+## License
 
 
 ## Questions
